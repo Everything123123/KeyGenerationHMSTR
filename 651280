@@ -1,0 +1,308 @@
+[2024-08-11 09:14:28.998 I/HiAd/HiAd 23591:main] 
+============================================================================
+====== HiAd-13.4.65.301
+====== Brand: HONOR Model: JAT-L29 Release: 9 API: 28
+============================================================================
+[2024-08-11 09:14:29.069 W/HiAd/HiAdSDK.ReflectAPI 23591:main] class not found for com.huawei.hag.abilitykit.api.KitSdkManager
+[2024-08-11 09:14:29.921 I/HiAd/HiAdSDK.Decouple.PPSApiServiceManager 23591:main] PPS remote service connected: 1723356869921
+[2024-08-11 09:14:29.922 I/HiAd/HiAdSDK.Decouple.PPSApiServiceManager 23591:main] call remote method: AidlConnectMonitorMethod
+[2024-08-11 09:14:29.923 I/HiAd/HiAdSDK.Monitor_Decouple.PPSApiServiceManager 23591:main] inc count: 2
+[2024-08-11 09:14:30.042 I/HiAd/HiAdSDK.Decouple.PPSApiServiceManager 23591:Cal-pool-thread-1] call remote method: rptDynamicLoaderResult
+[2024-08-11 09:14:30.043 I/HiAd/HiAdSDK.Monitor_Decouple.PPSApiServiceManager 23591:Cal-pool-thread-1] inc count: 3
+[2024-08-11 09:14:30.173 I/HiAd/HiAdSDK.Decouple.PPSApiServiceManager 23591:Binder:23591_3] call rptDynamicLoaderResult code: 200 msg: null
+[2024-08-11 10:38:39.612 I/HiAd/HiAdSDK.ApDnDe 23591:main] itRe action: android.intent.action.PACKAGE_REMOVED
+[2024-08-11 10:38:39.930 I/HiAd/HiAdSDK.ApDnDe 23591:main] itRe action: android.intent.action.PACKAGE_ADDED
+[2024-08-11 10:38:40.214 I/HiAd/HiAdSDK.ApDnDe 23591:main] itRe action: android.intent.action.PACKAGE_REPLACED
+[2024-08-11 10:38:40.978 I/HiAd/HiAdSDK.ApiCallManager 23591:Cal-pool-thread-2] call remote method: getDownloadStatus
+[2024-08-11 10:38:41.080 W/HiAd/HiAdSDK.aa 23591:Cal-pool-thread-2] toObject JSONException
+[2024-08-11 10:38:41.082 I/HiAd/HiAdSDK.ApiCallManager 23591:Cal-pool-thread-2] call getDownloadStatus code: 200 msg: null
+[2024-08-11 13:15:50.794 I/HiAd/HiAdSDK.HiAdTools 23591:Cal-pool-thread-4] current connected service pkg: com.huawei.hwid
+[2024-08-11 13:15:50.794 I/HiAd/HiAdSDK.HiAdTools 23591:Cal-pool-thread-3] current connected service pkg: com.huawei.hwid
+[2024-08-11 13:15:54.931 I/HiAd/HiAd 14969:main] 
+============================================================================
+====== HiAd-13.4.65.301
+====== Brand: HONOR Model: JAT-L29 Release: 9 API: 28
+============================================================================
+[2024-08-11 13:15:54.981 W/HiAd/HiAdSDK.ReflectAPI 14969:main] class not found for com.huawei.hag.abilitykit.api.KitSdkManager
+[2024-08-11 13:15:55.697 I/HiAd/HiAdSDK.Decouple.PPSApiServiceManager 14969:main] PPS remote service connected: 1723371355697
+[2024-08-11 13:15:55.700 I/HiAd/HiAdSDK.Decouple.PPSApiServiceManager 14969:main] call remote method: AidlConnectMonitorMethod
+[2024-08-11 13:15:55.700 I/HiAd/HiAdSDK.Monitor_Decouple.PPSApiServiceManager 14969:main] inc count: 2
+[2024-08-11 13:15:56.087 I/HiAd/HiAdSDK.Decouple.PPSApiServiceManager 14969:Cal-pool-thread-1] call remote method: rptDynamicLoaderResult
+[2024-08-11 13:15:56.087 I/HiAd/HiAdSDK.Monitor_Decouple.PPSApiServiceManager 14969:Cal-pool-thread-1] inc count: 3
+[2024-08-11 13:15:56.221 I/HiAd/HiAdSDK.Decouple.PPSApiServiceManager 14969:Binder:14969_1] call rptDynamicLoaderResult code: 200 msg: null
+[2024-08-11 14:04:41.162 I/HiAd/HiAd 22534:main] 
+============================================================================
+====== HiAd-13.4.65.301
+====== Brand: HONOR Model: JAT-L29 Release: 9 API: 28
+============================================================================
+[2024-08-11 14:04:41.198 W/HiAd/HiAdSDK.ReflectAPI 22534:main] class not found for com.huawei.hag.abilitykit.api.KitSdkManager
+[2024-08-11 14:04:41.714 I/HiAd/HiAdSDK.Decouple.PPSApiServiceManager 22534:main] PPS remote service connected: 1723374281714
+[2024-08-11 14:04:41.726 I/HiAd/HiAdSDK.Decouple.PPSApiServiceManager 22534:main] call remote method: AidlConnectMonitorMethod
+[2024-08-11 14:04:41.726 I/HiAd/HiAdSDK.Monitor_Decouple.PPSApiServiceManager 22534:main] inc count: 2
+[2024-08-11 14:04:41.899 I/HiAd/HiAdSDK.Decouple.PPSApiServiceManager 22534:Cal-pool-thread-1] call remote method: rptDynamicLoaderResult
+[2024-08-11 14:04:41.899 I/HiAd/HiAdSDK.Monitor_Decouple.PPSApiServiceManager 22534:Cal-pool-thread-1] inc count: 3
+[2024-08-11 14:04:42.043 I/HiAd/HiAdSDK.Decouple.PPSApiServiceManager 22534:Binder:22534_4] call rptDynamicLoaderResult code: 200 msg: null
+[2024-08-11 14:57:34.878 I/HiAd/HiAdSDK.HiAdTools 22534:Cal-pool-thread-3] current connected service pkg: com.huawei.hwid
+[2024-08-11 14:57:34.878 I/HiAd/HiAdSDK.HiAdTools 22534:Cal-pool-thread-2] current connected service pkg: com.huawei.hwid
+[2024-08-11 14:57:37.077 I/HiAd/HiAd 2464:main] 
+============================================================================
+====== HiAd-13.4.65.301
+====== Brand: HONOR Model: JAT-L29 Release: 9 API: 28
+============================================================================
+[2024-08-11 14:57:37.083 I/HiAd/HiAdSDK.RemoteSdkInitializer 2464:IO-pool-thread-1] newCreator: 
+[2024-08-11 14:57:37.083 I/HiAd/HiAdSDK.RemoteSdkInitializer 2464:IO-pool-thread-1] newRemoteContext: 
+[2024-08-11 14:57:37.177 W/HiAd/HiAdSDK.ReflectAPI 2464:main] class not found for com.huawei.hag.abilitykit.api.KitSdkManager
+[2024-08-11 14:57:37.979 I/HiAd/HiAdSDK.Decouple.PPSApiServiceManager 2464:main] PPS remote service connected: 1723377457979
+[2024-08-11 14:57:37.984 I/HiAd/HiAdSDK.Decouple.PPSApiServiceManager 2464:main] call remote method: AidlConnectMonitorMethod
+[2024-08-11 14:57:37.985 I/HiAd/HiAdSDK.Monitor_Decouple.PPSApiServiceManager 2464:main] inc count: 2
+[2024-08-11 14:57:38.213 I/HiAd/HiAdSDK.Decouple.PPSApiServiceManager 2464:Cal-pool-thread-1] call remote method: rptDynamicLoaderResult
+[2024-08-11 14:57:38.213 I/HiAd/HiAdSDK.Monitor_Decouple.PPSApiServiceManager 2464:Cal-pool-thread-1] inc count: 3
+[2024-08-11 14:57:38.353 I/HiAd/HiAdSDK.Decouple.PPSApiServiceManager 2464:Binder:2464_1] call rptDynamicLoaderResult code: 200 msg: null
+[2024-08-11 15:09:37.283 I/HiAd/HiAd 5810:main] 
+============================================================================
+====== HiAd-13.4.65.301
+====== Brand: HONOR Model: JAT-L29 Release: 9 API: 28
+============================================================================
+[2024-08-11 15:09:37.300 W/HiAd/HiAdSDK.ReflectAPI 5810:main] class not found for com.huawei.hag.abilitykit.api.KitSdkManager
+[2024-08-11 15:09:37.592 I/HiAd/HiAdSDK.ScanningRelativeLayout 5810:main] init
+[2024-08-11 15:09:37.616 I/HiAd/HiAdSDK.PPSSplashSwipeView 5810:main] init
+[2024-08-11 15:09:37.634 I/HiAd/HiAdSDK.Decouple.PPSApiServiceManager 5810:Cal-pool-thread-1] call remote method: rptDynamicLoaderResult
+[2024-08-11 15:09:37.634 I/HiAd/HiAdSDK.PPSSplashTwistView 5810:main] init
+[2024-08-11 15:09:37.634 I/HiAd/HiAdSDK.Monitor_Decouple.PPSApiServiceManager 5810:Cal-pool-thread-1] inc count: 2
+[2024-08-11 15:09:37.637 I/HiAd/HiAdSDK.Decouple.PPSApiServiceManager 5810:Cal-pool-thread-1] bindService 1723378177637
+[2024-08-11 15:09:37.637 I/HiAd/HiAdSDK.HiAdTools 5810:Cal-pool-thread-1] current connected service pkg: null
+[2024-08-11 15:09:37.638 I/HiAd/HiAdSDK.SpHandler 5810:Cal-pool-thread-1] function wrapper not found
+[2024-08-11 15:09:37.639 W/HiAd/HiAdSDK.HiAdTools 5810:Cal-pool-thread-1] inner pps core service not available
+[2024-08-11 15:09:37.643 I/HiAd/HiAdSDK.Decouple.PPSApiServiceManager 5810:Cal-pool-thread-1] bind service pkg: com.huawei.hwid
+[2024-08-11 15:09:37.646 I/HiAd/HiAdSDK.PPSSplashSwipeClickView 5810:main] init
+[2024-08-11 15:09:37.648 I/HiAd/HiAdSDK.Decouple.PPSApiServiceManager 5810:Cal-pool-thread-1] bind service result: true
+[2024-08-11 15:09:37.657 I/HiAd/HiAdSDK.PPSSplashTwistClickView 5810:main] init
+[2024-08-11 15:09:37.676 I/HiAd/HiAdSDK.SplashView 5810:main] loadAd
+[2024-08-11 15:09:37.681 I/HiAd/HiAdSDK.RequestOptions 5810:main] Invalid value passed to setAppLang
+[2024-08-11 15:09:37.682 I/HiAd/HiAdSDK.RequestOptions 5810:main] Invalid appInfo
+[2024-08-11 15:09:37.682 I/HiAd/HiAdSDK.RequestOptions 5810:main] Invalid value passed to setAppCountry
+[2024-08-11 15:09:37.682 I/HiAd/HiAdSDK.RequestOptions 5810:main] Invalid value setSearchTerm
+[2024-08-11 15:09:37.682 I/HiAd/HiAdSDK.RequestOptions 5810:main] Invalid value passed to setAppLang
+[2024-08-11 15:09:37.682 I/HiAd/HiAdSDK.RequestOptions 5810:main] Invalid value passed to setAppCountry
+[2024-08-11 15:09:37.682 I/HiAd/HiAdSDK.RequestOptions 5810:main] Invalid appInfo
+[2024-08-11 15:09:37.682 W/HiAd/HiAdSDK.aa 5810:main] toObject JSONException
+[2024-08-11 15:09:37.683 W/HiAd/HiAdSDK.AdSlotParam 5810:main] contentBundle info is empty or not json string
+[2024-08-11 15:09:37.690 I/HiAd/HiAdSDK.RequestOptions 5810:main] Invalid value passed to setAppLang
+[2024-08-11 15:09:37.690 I/HiAd/HiAdSDK.RequestOptions 5810:main] Invalid appInfo
+[2024-08-11 15:09:37.690 I/HiAd/HiAdSDK.RequestOptions 5810:main] Invalid value passed to setAppCountry
+[2024-08-11 15:09:37.690 I/HiAd/HiAdSDK.RequestOptions 5810:main] Invalid value setSearchTerm
+[2024-08-11 15:09:37.690 I/HiAd/HiAdSDK.RequestOptions 5810:main] Invalid value passed to setAppLang
+[2024-08-11 15:09:37.690 I/HiAd/HiAdSDK.RequestOptions 5810:main] Invalid value passed to setAppCountry
+[2024-08-11 15:09:37.690 I/HiAd/HiAdSDK.RequestOptions 5810:main] Invalid appInfo
+[2024-08-11 15:09:37.690 I/HiAd/HiAdSDK.HiAd 5810:main] isNewProcess:true
+[2024-08-11 15:09:37.701 I/HiAd/HiAdSDK.ExSplashStartReceiver 5810:main] unregister receiver
+[2024-08-11 15:09:37.702 I/HiAd/HiAdSDK.ExSplashStartReceiver 5810:main] register receiver
+[2024-08-11 15:09:37.709 I/HiAd/HiAdSDK.fp 5810:main] create ad mediator: 2
+[2024-08-11 15:09:37.716 I/HiAd/HiAdSDK.RealtimeAdMediator 5810:main] start
+[2024-08-11 15:09:37.722 I/HiAd/HiAdSDK.Decouple.PPSApiServiceManager 5810:IO-pool-thread-2] call remote method: resetDisplayDateAndCount
+[2024-08-11 15:09:37.723 I/HiAd/HiAdSDK.Monitor_Decouple.PPSApiServiceManager 5810:IO-pool-thread-2] inc count: 3
+[2024-08-11 15:09:37.726 I/HiAd/HiAdSDK.Decouple.PPSApiServiceManager 5810:IO-pool-thread-2] bindService 1723378177726
+[2024-08-11 15:09:37.726 I/HiAd/HiAdSDK.HiAdTools 5810:IO-pool-thread-2] current connected service pkg: null
+[2024-08-11 15:09:37.726 I/HiAd/HiAdSDK.SpHandler 5810:IO-pool-thread-2] function wrapper not found
+[2024-08-11 15:09:37.727 W/HiAd/HiAdSDK.HiAdTools 5810:IO-pool-thread-2] inner pps core service not available
+[2024-08-11 15:09:37.730 I/HiAd/HiAdSDK.LocationUtils 5810:Cal-pool-thread-2] loc_tag isGpsSwitchOpen locationMode is 0
+[2024-08-11 15:09:37.734 I/HiAd/HiAdSDK.LocationUtils 5810:SplashNet-pool-thread-1] loc_tag media allow: true
+[2024-08-11 15:09:37.738 I/HiAd/HiAdSDK.LocationUtils 5810:SplashNet-pool-thread-1] loc_tag isGpsSwitchOpen locationMode is 0
+[2024-08-11 15:09:37.740 I/HiAd/HiAdSDK.id 5810:main] start min show time task duration: 300
+[2024-08-11 15:09:37.741 I/HiAd/HiAdSDK.HiAdTools 5810:Cal-pool-thread-3] Target provider service's package name is : com.huawei.hwid
+[2024-08-11 15:09:37.741 I/HiAd/HiAdSDK.id 5810:main] start max show time task duration: 3000
+[2024-08-11 15:09:37.741 I/HiAd/HiAdSDK.AdMediator 5810:main] startAdLoadTimeoutTask - max load time: 3000
+[2024-08-11 15:09:37.742 I/HiAd/HiAdSDK.LocationUtils 5810:Cal-pool-thread-2] loc_tag sendAsyncLocationByNative failed because switch is off
+[2024-08-11 15:09:37.743 I/HiAd/HiAdSDK.HiAdTools 5810:Cal-pool-thread-2] Target provider service's package name is : com.huawei.hwid
+[2024-08-11 15:09:37.744 I/HiAd/HiAdSDK.Decouple.PPSApiServiceManager 5810:IO-pool-thread-2] bind service pkg: com.huawei.hwid
+[2024-08-11 15:09:37.745 I/HiAd/HiAdSDK.LocationUtils 5810:SplashNet-pool-thread-1] loc_tag isLocationAvailable = false, return null
+[2024-08-11 15:09:37.751 W/HiAd/HiAdSDK.ReflectAPI 5810:SplashNet-pool-thread-1] class not found for com.huawei.hag.abilitykit.api.KitSdkManager
+[2024-08-11 15:09:37.758 I/HiAd/HiAdSDK.Decouple.PPSApiServiceManager 5810:SplashNet-pool-thread-1] call remote method: reqSplashAd
+[2024-08-11 15:09:37.758 I/HiAd/HiAdSDK.Monitor_Decouple.PPSApiServiceManager 5810:SplashNet-pool-thread-1] inc count: 4
+[2024-08-11 15:09:37.758 I/HiAd/HiAdSDK.Decouple.PPSApiServiceManager 5810:SplashNet-pool-thread-1] bindService 1723378177758
+[2024-08-11 15:09:37.758 I/HiAd/HiAdSDK.HiAdTools 5810:SplashNet-pool-thread-1] current connected service pkg: null
+[2024-08-11 15:09:37.758 I/HiAd/HiAdSDK.SpHandler 5810:SplashNet-pool-thread-1] function wrapper not found
+[2024-08-11 15:09:37.759 W/HiAd/HiAdSDK.HiAdTools 5810:SplashNet-pool-thread-1] inner pps core service not available
+[2024-08-11 15:09:37.761 I/HiAd/HiAdSDK.Decouple.PPSApiServiceManager 5810:SplashNet-pool-thread-1] bind service pkg: com.huawei.hwid
+[2024-08-11 15:09:37.903 I/HiAd/HiAdSDK.Decouple.PPSApiServiceManager 5810:IO-pool-thread-2] bind service result: true
+[2024-08-11 15:09:37.911 I/HiAd/HiAdSDK.Decouple.PPSApiServiceManager 5810:SplashNet-pool-thread-1] bind service result: true
+[2024-08-11 15:09:37.944 W/HiAd/HiAdSDK.HiAdTools 5810:IO-pool-thread-3] inner pps core service not available
+[2024-08-11 15:09:37.994 I/HiAd/HiAdSDK.Decouple.PPSApiServiceManager 5810:IO-pool-thread-3] call remote method: reqConfig
+[2024-08-11 15:09:37.995 I/HiAd/HiAdSDK.Monitor_Decouple.PPSApiServiceManager 5810:IO-pool-thread-3] inc count: 5
+[2024-08-11 15:09:37.995 I/HiAd/HiAdSDK.Decouple.PPSApiServiceManager 5810:IO-pool-thread-3] bindService 1723378177995
+[2024-08-11 15:09:37.995 I/HiAd/HiAdSDK.HiAdTools 5810:IO-pool-thread-3] current connected service pkg: null
+[2024-08-11 15:09:37.996 I/HiAd/HiAdSDK.SpHandler 5810:IO-pool-thread-3] function wrapper not found
+[2024-08-11 15:09:37.997 W/HiAd/HiAdSDK.HiAdTools 5810:IO-pool-thread-3] inner pps core service not available
+[2024-08-11 15:09:37.999 I/HiAd/HiAdSDK.Decouple.PPSApiServiceManager 5810:IO-pool-thread-3] bind service pkg: com.huawei.hwid
+[2024-08-11 15:09:38.031 I/HiAd/HiAdSDK.Decouple.PPSApiServiceManager 5810:IO-pool-thread-3] bind service result: true
+[2024-08-11 15:09:38.078 I/HiAd/HiAdSDK.PPSSplashView 5810:main] onAttachedToWindow
+[2024-08-11 15:09:38.080 I/HiAd/HiAdSDK.PPSSplashView 5810:main] onApplyWindowInsets
+[2024-08-11 15:09:38.084 I/HiAd/HiAdSDK.PPSSplashView 5810:main] notchHeight left:0
+[2024-08-11 15:09:38.084 I/HiAd/HiAdSDK.PPSSplashView 5810:main] notchHeight right:0
+[2024-08-11 15:09:38.084 I/HiAd/HiAdSDK.PPSSplashView 5810:main] notchHeight:54
+[2024-08-11 15:09:38.115 I/HiAd/HiAdSDK.PPSSplashView 5810:main] onApplyWindowInsets
+[2024-08-11 15:09:38.116 I/HiAd/HiAdSDK.PPSSplashView 5810:main] notchHeight left:0
+[2024-08-11 15:09:38.116 I/HiAd/HiAdSDK.PPSSplashView 5810:main] notchHeight right:0
+[2024-08-11 15:09:38.118 I/HiAd/HiAdSDK.PPSSplashView 5810:main] notchHeight:54
+[2024-08-11 15:09:38.137 I/HiAd/HiAdSDK.Decouple.PPSApiServiceManager 5810:main] PPS remote service connected: 1723378178137
+[2024-08-11 15:09:38.138 I/HiAd/HiAdSDK.Decouple.PPSApiServiceManager 5810:main] call remote method: AidlConnectMonitorMethod
+[2024-08-11 15:09:38.139 I/HiAd/HiAdSDK.Monitor_Decouple.PPSApiServiceManager 5810:main] inc count: 6
+[2024-08-11 15:09:38.323 I/HiAd/HiAdSDK.Decouple.PPSApiServiceManager 5810:Binder:5810_3] call rptDynamicLoaderResult code: 200 msg: null
+[2024-08-11 15:09:38.358 I/HiAd/HiAdSDK.Decouple.PPSApiServiceManager 5810:Binder:5810_3] call resetDisplayDateAndCount code: 200 msg: null
+[2024-08-11 15:09:38.545 I/HiAd/HiAdSDK.ScanningRelativeLayout 5810:main] stop
+[2024-08-11 15:09:38.645 I/HiAd/HiAdSDK.RealtimeAdMediator 5810:main] doOnReachMinSloganShowTime
+[2024-08-11 15:09:38.645 I/HiAd/HiAdSDK.RealtimeAdMediator 5810:main] doOnReachMinSloganShowTime adFailToDisplay: false
+[2024-08-11 15:09:40.583 I/HiAd/HiAdSDK.Decouple.PPSApiServiceManager 5810:Binder:5810_4] call reqConfig code: 200 msg: null
+[2024-08-11 15:09:40.744 I/HiAd/HiAdSDK.RealtimeAdMediator 5810:main] doOnShowSloganEnd
+[2024-08-11 15:09:40.744 I/HiAd/HiAdSDK.RealtimeAdMediator71162071 5810:main] doOnShowSloganEnd Ad has been loaded, but not shown yet
+[2024-08-11 15:09:40.744 I/HiAd/HiAdSDK.AdMediator 5810:main] on load task timeout, loadingTimeout: false
+[2024-08-11 15:09:40.745 I/HiAd/HiAdSDK.Decouple.PPSApiServiceManager 5810:main] call remote method: getSpareSplashAd
+[2024-08-11 15:09:40.745 I/HiAd/HiAdSDK.Monitor_Decouple.PPSApiServiceManager 5810:main] inc count: 7
+[2024-08-11 15:09:40.782 W/HiAd/HiAdSDK.aa 5810:Binder:5810_4] toObject JSONException
+[2024-08-11 15:09:40.783 I/HiAd/HiAdSDK.Decouple.PPSApiServiceManager 5810:Binder:5810_4] call getSpareSplashAd code: 200 msg: null
+[2024-08-11 15:09:40.785 I/HiAd/HiAdSDK.AdMediator 5810:main] ad failed:-2
+[2024-08-11 15:09:40.788 I/HiAd/HiAdSDK.Decouple.PPSApiServiceManager 5810:main] call remote method: removeExSplashBlock
+[2024-08-11 15:09:40.794 I/HiAd/HiAdSDK.Monitor_Decouple.PPSApiServiceManager 5810:main] inc count: 8
+[2024-08-11 15:09:40.909 I/HiAd/HiAdSDK.AdMediator 5810:main] onAdEnd
+[2024-08-11 15:09:40.929 I/HiAd/HiAdSDK.Decouple.PPSApiServiceManager 5810:main] call remote method: rptSplashFailedEvt
+[2024-08-11 15:09:40.929 I/HiAd/HiAdSDK.Monitor_Decouple.PPSApiServiceManager 5810:main] inc count: 9
+[2024-08-11 15:09:40.964 I/HiAd/HiAdSDK.AdMediator 5810:main] notifyAdDismissed
+[2024-08-11 15:09:41.190 I/HiAd/HiAdSDK.Decouple.PPSApiServiceManager 5810:Binder:5810_4] call rptSplashFailedEvt code: 200 msg: null
+[2024-08-11 15:09:42.680 I/HiAd/HiAdSDK.Decouple.PPSApiServiceManager 5810:Binder:5810_4] call reqSplashAd code: 200 msg: null
+[2024-08-11 15:09:42.682 I/HiAd/HiAdSDK.AdMediator 5810:Cal-pool-thread-2] onDownloaded
+[2024-08-11 15:09:42.683 I/HiAd/HiAdSDK.AdMediator 5810:Cal-pool-thread-2] onDownloaded, loadingTimeout:true
+[2024-08-11 15:09:42.687 I/HiAd/HiAdSDK.AdMediator 5810:Cal-pool-thread-2] reportSplashCostTime
+[2024-08-11 15:09:42.694 I/HiAd/HiAdSDK.Decouple.PPSApiServiceManager 5810:Cal-pool-thread-2] call remote method: apistatistics
+[2024-08-11 15:09:42.695 I/HiAd/HiAdSDK.Monitor_Decouple.PPSApiServiceManager 5810:Cal-pool-thread-2] inc count: 10
+[2024-08-11 15:09:43.647 I/HiAd/HiAdSDK.Decouple.PPSApiServiceManager 5810:Binder:5810_4] call apistatistics code: 200 msg: null
+[2024-08-11 15:09:44.368 I/HiAd/HiAdSDK.HiAdTools 2464:Cal-pool-thread-2] current connected service pkg: com.huawei.hwid
+[2024-08-11 15:09:44.389 I/HiAd/HiAdSDK.HiAdTools 2464:Cal-pool-thread-3] current connected service pkg: com.huawei.hwid
+[2024-08-11 15:09:44.523 I/HiAd/HiAdSDK.HiAdTools 5810:Cal-pool-thread-3] current connected service pkg: com.huawei.hwid
+[2024-08-11 15:09:44.528 I/HiAd/HiAdSDK.HiAdTools 5810:Cal-pool-thread-1] current connected service pkg: com.huawei.hwid
+[2024-08-11 15:09:44.529 I/HiAd/HiAdSDK.HiAdTools 5810:Cal-pool-thread-3] current connected service pkg: com.huawei.hwid
+[2024-08-11 15:09:44.531 I/HiAd/HiAdSDK.HiAdTools 5810:Cal-pool-thread-2] current connected service pkg: com.huawei.hwid
+[2024-08-11 15:09:44.531 I/HiAd/HiAdSDK.HiAdTools 5810:Cal-pool-thread-3] current connected service pkg: com.huawei.hwid
+[2024-08-11 15:09:44.533 I/HiAd/HiAdSDK.HiAdTools 5810:Cal-pool-thread-2] current connected service pkg: com.huawei.hwid
+[2024-08-11 15:09:44.542 I/HiAd/HiAdSDK.HiAdTools 5810:Cal-pool-thread-1] current connected service pkg: com.huawei.hwid
+[2024-08-11 15:12:30.257 I/HiAd/HiAdSDK.ScanningRelativeLayout 5810:main] stop
+[2024-08-11 15:12:30.276 I/HiAd/HiAdSDK.ScanningRelativeLayout 5810:main] stop
+[2024-08-11 17:23:36.823 I/HiAd/HiAdSDK.Decouple.PPSApiServiceManager 2464:main] PPS remote service disconnected
+[2024-08-11 17:23:36.823 I/HiAd/HiAdSDK.Decouple.PPSApiServiceManager 5810:main] PPS remote service disconnected
+[2024-08-11 17:23:48.609 I/HiAd/HiAdSDK.Decouple.PPSApiServiceManager 2464:main] PPS remote service connected: 1723386228609
+[2024-08-11 17:23:48.612 I/HiAd/HiAdSDK.Decouple.PPSApiServiceManager 5810:main] PPS remote service connected: 1723386228611
+[2024-08-11 17:23:48.613 I/HiAd/HiAdSDK.Decouple.PPSApiServiceManager 5810:main] call remote method: AidlConnectMonitorMethod
+[2024-08-11 17:23:48.614 I/HiAd/HiAdSDK.Monitor_Decouple.PPSApiServiceManager 5810:main] inc count: 11
+[2024-08-11 17:23:48.613 I/HiAd/HiAdSDK.Decouple.PPSApiServiceManager 2464:main] call remote method: AidlConnectMonitorMethod
+[2024-08-11 17:23:48.613 I/HiAd/HiAdSDK.Monitor_Decouple.PPSApiServiceManager 2464:main] inc count: 4
+[2024-08-11 19:09:15.329 I/HiAd/HiAdSDK.Decouple.PPSApiServiceManager 2464:main] PPS remote service disconnected
+[2024-08-11 19:09:15.313 I/HiAd/HiAdSDK.Decouple.PPSApiServiceManager 5810:main] PPS remote service disconnected
+[2024-08-11 19:09:15.332 I/HiAd/HiAdSDK.Decouple.PPSApiServiceManager 2464:main] PPS remote service connected: 1723392555331
+[2024-08-11 19:09:15.326 I/HiAd/HiAdSDK.Decouple.PPSApiServiceManager 5810:main] PPS remote service connected: 1723392555325
+[2024-08-11 19:09:15.332 I/HiAd/HiAdSDK.Decouple.PPSApiServiceManager 2464:main] call remote method: AidlConnectMonitorMethod
+[2024-08-11 19:09:15.326 I/HiAd/HiAdSDK.Decouple.PPSApiServiceManager 5810:main] call remote method: AidlConnectMonitorMethod
+[2024-08-11 19:09:15.332 I/HiAd/HiAdSDK.Monitor_Decouple.PPSApiServiceManager 2464:main] inc count: 5
+[2024-08-11 19:09:15.327 I/HiAd/HiAdSDK.Monitor_Decouple.PPSApiServiceManager 5810:main] inc count: 12
+[2024-08-11 19:09:15.365 W/HiAd/HiAdSDK.Decouple.PPSApiServiceManager 2464:main] remote call RemoteException
+[2024-08-11 19:09:15.366 I/HiAd/HiAdSDK.Decouple.PPSApiServiceManager 2464:main] call AidlConnectMonitorMethod code: -1 msg: remote call RemoteException
+[2024-08-11 19:09:15.367 I/HiAd/HiAdSDK.Decouple.PPSApiServiceManager 2464:main] PPS remote service disconnected
+[2024-08-11 19:09:15.366 W/HiAd/HiAdSDK.Decouple.PPSApiServiceManager 5810:main] remote call RemoteException
+[2024-08-11 19:09:15.367 I/HiAd/HiAdSDK.Decouple.PPSApiServiceManager 2464:main] PPS remote service connected: 1723392555367
+[2024-08-11 19:09:15.368 I/HiAd/HiAdSDK.Decouple.PPSApiServiceManager 5810:main] call AidlConnectMonitorMethod code: -1 msg: remote call RemoteException
+[2024-08-11 19:09:15.369 I/HiAd/HiAdSDK.Decouple.PPSApiServiceManager 5810:main] PPS remote service disconnected
+[2024-08-11 19:09:15.367 I/HiAd/HiAdSDK.Decouple.PPSApiServiceManager 2464:main] call remote method: AidlConnectMonitorMethod
+[2024-08-11 19:09:15.367 I/HiAd/HiAdSDK.Monitor_Decouple.PPSApiServiceManager 2464:main] inc count: 6
+[2024-08-11 19:09:15.370 I/HiAd/HiAdSDK.Decouple.PPSApiServiceManager 5810:main] PPS remote service connected: 1723392555370
+[2024-08-11 19:09:15.368 W/HiAd/HiAdSDK.Decouple.PPSApiServiceManager 2464:main] remote call RemoteException
+[2024-08-11 19:09:15.368 I/HiAd/HiAdSDK.Decouple.PPSApiServiceManager 2464:main] call AidlConnectMonitorMethod code: -1 msg: remote call RemoteException
+[2024-08-11 19:09:15.368 I/HiAd/HiAdSDK.Decouple.PPSApiServiceManager 2464:main] PPS remote service disconnected
+[2024-08-11 19:09:15.370 I/HiAd/HiAdSDK.Decouple.PPSApiServiceManager 5810:main] call remote method: AidlConnectMonitorMethod
+[2024-08-11 19:09:15.370 I/HiAd/HiAdSDK.Monitor_Decouple.PPSApiServiceManager 5810:main] inc count: 13
+[2024-08-11 19:09:15.368 I/HiAd/HiAdSDK.Decouple.PPSApiServiceManager 2464:main] PPS remote service connected: 1723392555368
+[2024-08-11 19:09:15.369 I/HiAd/HiAdSDK.Decouple.PPSApiServiceManager 2464:main] call remote method: AidlConnectMonitorMethod
+[2024-08-11 19:09:15.371 W/HiAd/HiAdSDK.Decouple.PPSApiServiceManager 5810:main] remote call RemoteException
+[2024-08-11 19:09:15.369 I/HiAd/HiAdSDK.Monitor_Decouple.PPSApiServiceManager 2464:main] inc count: 7
+[2024-08-11 19:09:15.371 I/HiAd/HiAdSDK.Decouple.PPSApiServiceManager 5810:main] call AidlConnectMonitorMethod code: -1 msg: remote call RemoteException
+[2024-08-11 19:09:15.369 W/HiAd/HiAdSDK.Decouple.PPSApiServiceManager 2464:main] remote call RemoteException
+[2024-08-11 19:09:15.371 I/HiAd/HiAdSDK.Decouple.PPSApiServiceManager 5810:main] PPS remote service disconnected
+[2024-08-11 19:09:15.369 I/HiAd/HiAdSDK.Decouple.PPSApiServiceManager 2464:main] call AidlConnectMonitorMethod code: -1 msg: remote call RemoteException
+[2024-08-11 19:09:15.373 I/HiAd/HiAdSDK.Decouple.PPSApiServiceManager 5810:main] PPS remote service connected: 1723392555373
+[2024-08-11 19:09:15.370 I/HiAd/HiAdSDK.Decouple.PPSApiServiceManager 2464:main] PPS remote service disconnected
+[2024-08-11 19:09:15.373 I/HiAd/HiAdSDK.Decouple.PPSApiServiceManager 5810:main] call remote method: AidlConnectMonitorMethod
+[2024-08-11 19:09:15.370 I/HiAd/HiAdSDK.Decouple.PPSApiServiceManager 2464:main] PPS remote service connected: 1723392555370
+[2024-08-11 19:09:15.373 I/HiAd/HiAdSDK.Monitor_Decouple.PPSApiServiceManager 5810:main] inc count: 14
+[2024-08-11 19:09:15.370 I/HiAd/HiAdSDK.Decouple.PPSApiServiceManager 2464:main] call remote method: AidlConnectMonitorMethod
+[2024-08-11 19:09:15.370 I/HiAd/HiAdSDK.Monitor_Decouple.PPSApiServiceManager 2464:main] inc count: 8
+[2024-08-11 19:09:15.374 W/HiAd/HiAdSDK.Decouple.PPSApiServiceManager 5810:main] remote call RemoteException
+[2024-08-11 19:09:15.371 W/HiAd/HiAdSDK.Decouple.PPSApiServiceManager 2464:main] remote call RemoteException
+[2024-08-11 19:09:15.375 I/HiAd/HiAdSDK.Decouple.PPSApiServiceManager 5810:main] call AidlConnectMonitorMethod code: -1 msg: remote call RemoteException
+[2024-08-11 19:09:15.371 I/HiAd/HiAdSDK.Decouple.PPSApiServiceManager 2464:main] call AidlConnectMonitorMethod code: -1 msg: remote call RemoteException
+[2024-08-11 19:09:15.371 I/HiAd/HiAdSDK.Decouple.PPSApiServiceManager 2464:main] PPS remote service disconnected
+[2024-08-11 19:09:15.372 I/HiAd/HiAdSDK.Decouple.PPSApiServiceManager 2464:main] PPS remote service connected: 1723392555372
+[2024-08-11 19:09:15.372 I/HiAd/HiAdSDK.Decouple.PPSApiServiceManager 2464:main] call remote method: AidlConnectMonitorMethod
+[2024-08-11 19:09:15.376 I/HiAd/HiAdSDK.Decouple.PPSApiServiceManager 5810:main] PPS remote service disconnected
+[2024-08-11 19:09:15.372 I/HiAd/HiAdSDK.Monitor_Decouple.PPSApiServiceManager 2464:main] inc count: 9
+[2024-08-11 19:09:15.376 I/HiAd/HiAdSDK.Decouple.PPSApiServiceManager 5810:main] PPS remote service connected: 1723392555376
+[2024-08-11 19:09:15.376 I/HiAd/HiAdSDK.Decouple.PPSApiServiceManager 5810:main] call remote method: AidlConnectMonitorMethod
+[2024-08-11 19:09:15.376 I/HiAd/HiAdSDK.Monitor_Decouple.PPSApiServiceManager 5810:main] inc count: 15
+[2024-08-11 19:09:15.377 W/HiAd/HiAdSDK.Decouple.PPSApiServiceManager 5810:main] remote call RemoteException
+[2024-08-11 19:09:15.377 I/HiAd/HiAdSDK.Decouple.PPSApiServiceManager 5810:main] call AidlConnectMonitorMethod code: -1 msg: remote call RemoteException
+[2024-08-11 19:09:15.378 I/HiAd/HiAdSDK.Decouple.PPSApiServiceManager 5810:main] PPS remote service disconnected
+[2024-08-11 19:09:15.378 I/HiAd/HiAdSDK.Decouple.PPSApiServiceManager 5810:main] PPS remote service connected: 1723392555378
+[2024-08-11 19:09:15.379 I/HiAd/HiAdSDK.Decouple.PPSApiServiceManager 5810:main] call remote method: AidlConnectMonitorMethod
+[2024-08-11 19:09:15.379 I/HiAd/HiAdSDK.Monitor_Decouple.PPSApiServiceManager 5810:main] inc count: 16
+[2024-08-11 19:09:17.474 I/HiAd/HiAdSDK.HiAdTools 2464:Cal-pool-thread-4] current connected service pkg: com.huawei.hwid
+[2024-08-11 19:09:17.481 I/HiAd/HiAdSDK.HiAdTools 2464:Cal-pool-thread-5] current connected service pkg: com.huawei.hwid
+[2024-08-11 19:09:17.483 I/HiAd/HiAdSDK.HiAdTools 2464:Cal-pool-thread-6] current connected service pkg: com.huawei.hwid
+[2024-08-11 19:09:17.484 I/HiAd/HiAdSDK.HiAdTools 2464:Cal-pool-thread-5] current connected service pkg: com.huawei.hwid
+[2024-08-11 19:09:17.486 I/HiAd/HiAdSDK.HiAdTools 2464:Cal-pool-thread-4] current connected service pkg: com.huawei.hwid
+[2024-08-11 19:09:17.489 I/HiAd/HiAdSDK.HiAdTools 2464:Cal-pool-thread-6] current connected service pkg: com.huawei.hwid
+[2024-08-11 19:14:37.249 I/HiAd/HiAd 7197:main] 
+============================================================================
+====== HiAd-13.4.65.301
+====== Brand: HONOR Model: JAT-L29 Release: 9 API: 28
+============================================================================
+[2024-08-11 19:14:37.277 W/HiAd/HiAdSDK.ReflectAPI 7197:main] class not found for com.huawei.hag.abilitykit.api.KitSdkManager
+[2024-08-11 19:14:37.794 I/HiAd/HiAdSDK.Decouple.PPSApiServiceManager 7197:main] PPS remote service connected: 1723392877794
+[2024-08-11 19:14:37.796 I/HiAd/HiAdSDK.Decouple.PPSApiServiceManager 7197:main] call remote method: AidlConnectMonitorMethod
+[2024-08-11 19:14:37.796 I/HiAd/HiAdSDK.Monitor_Decouple.PPSApiServiceManager 7197:main] inc count: 2
+[2024-08-11 19:14:37.822 I/HiAd/HiAdSDK.Decouple.PPSApiServiceManager 7197:Cal-pool-thread-1] call remote method: rptDynamicLoaderResult
+[2024-08-11 19:14:37.822 I/HiAd/HiAdSDK.Monitor_Decouple.PPSApiServiceManager 7197:Cal-pool-thread-1] inc count: 3
+[2024-08-11 19:14:38.212 I/HiAd/HiAdSDK.Decouple.PPSApiServiceManager 7197:Binder:7197_1] call rptDynamicLoaderResult code: 200 msg: null
+[2024-08-11 19:48:31.668 I/HiAd/HiAdSDK.HiAdTools 7197:Cal-pool-thread-2] current connected service pkg: com.huawei.hwid
+[2024-08-11 19:48:31.669 I/HiAd/HiAdSDK.HiAdTools 7197:Cal-pool-thread-3] current connected service pkg: com.huawei.hwid
+[2024-08-11 22:38:42.460 I/HiAd/HiAdSDK.ApDnDe 7197:main] itRe action: android.intent.action.PACKAGE_ADDED
+[2024-08-11 22:38:42.484 I/HiAd/HiAdSDK.ApDnDe 5810:main] itRe action: android.intent.action.PACKAGE_ADDED
+[2024-08-11 22:38:43.140 I/HiAd/HiAdSDK.ApiCallManager 7197:Cal-pool-thread-4] call remote method: getDownloadStatus
+[2024-08-11 22:38:43.249 W/HiAd/HiAdSDK.aa 7197:Cal-pool-thread-4] toObject JSONException
+[2024-08-11 22:38:43.253 I/HiAd/HiAdSDK.ApiCallManager 7197:Cal-pool-thread-4] call getDownloadStatus code: 200 msg: null
+[2024-08-11 22:38:43.576 I/HiAd/HiAdSDK.ApiCallManager 5810:Cal-pool-thread-4] call remote method: getDownloadStatus
+[2024-08-11 22:38:43.608 W/HiAd/HiAdSDK.aa 5810:Cal-pool-thread-4] toObject JSONException
+[2024-08-11 22:38:43.616 I/HiAd/HiAdSDK.ApiCallManager 5810:Cal-pool-thread-4] call getDownloadStatus code: 200 msg: null
+[2024-08-11 22:51:35.942 I/HiAd/HiAdSDK.ApDnDe 7197:main] itRe action: android.intent.action.PACKAGE_ADDED
+[2024-08-11 22:51:35.961 I/HiAd/HiAdSDK.ApDnDe 5810:main] itRe action: android.intent.action.PACKAGE_ADDED
+[2024-08-11 22:51:36.540 I/HiAd/HiAdSDK.ApiCallManager 7197:Cal-pool-thread-5] call remote method: getDownloadStatus
+[2024-08-11 22:51:36.549 I/HiAd/HiAdSDK.ApiCallManager 5810:Cal-pool-thread-5] call remote method: getDownloadStatus
+[2024-08-11 22:51:36.662 W/HiAd/HiAdSDK.aa 7197:Cal-pool-thread-5] toObject JSONException
+[2024-08-11 22:51:36.665 I/HiAd/HiAdSDK.ApiCallManager 7197:Cal-pool-thread-5] call getDownloadStatus code: 200 msg: null
+[2024-08-11 22:51:36.676 W/HiAd/HiAdSDK.aa 5810:Cal-pool-thread-5] toObject JSONException
+[2024-08-11 22:51:36.723 I/HiAd/HiAdSDK.ApiCallManager 5810:Cal-pool-thread-5] call getDownloadStatus code: 200 msg: null
+[2024-08-12 09:37:30.090 I/HiAd/HiAdSDK.Decouple.PPSApiServiceManager 7197:main] PPS remote service disconnected
+[2024-08-12 09:37:30.105 I/HiAd/HiAdSDK.Decouple.PPSApiServiceManager 7197:main] PPS remote service connected: 1723444650105
+[2024-08-12 09:37:30.078 I/HiAd/HiAdSDK.Decouple.PPSApiServiceManager 5810:main] PPS remote service disconnected
+[2024-08-12 09:37:30.110 I/HiAd/HiAdSDK.Decouple.PPSApiServiceManager 7197:main] call remote method: AidlConnectMonitorMethod
+[2024-08-12 09:37:30.103 I/HiAd/HiAdSDK.Decouple.PPSApiServiceManager 5810:main] PPS remote service connected: 1723444650103
+[2024-08-12 09:37:30.112 I/HiAd/HiAdSDK.Monitor_Decouple.PPSApiServiceManager 7197:main] inc count: 4
+[2024-08-12 09:37:30.109 I/HiAd/HiAdSDK.Decouple.PPSApiServiceManager 5810:main] call remote method: AidlConnectMonitorMethod
+[2024-08-12 09:37:30.111 I/HiAd/HiAdSDK.Monitor_Decouple.PPSApiServiceManager 5810:main] inc count: 17
+[2024-08-12 09:37:34.214 I/HiAd/HiAdSDK.HiAdTools 7197:Cal-pool-thread-6] current connected service pkg: com.huawei.hwid
+[2024-08-12 10:00:43.269 I/HiAd/HiAdSDK.HiAdTools 7197:Cal-pool-thread-7] current connected service pkg: com.huawei.hwid
+[2024-08-12 11:08:01.585 I/HiAd/HiAdSDK.HiAdTools 5810:Cal-pool-thread-6] current connected service pkg: com.huawei.hwid
+[2024-08-12 11:08:01.586 I/HiAd/HiAdSDK.HiAdTools 5810:Cal-pool-thread-7] current connected service pkg: com.huawei.hwid
+[2024-08-12 11:08:01.598 I/HiAd/HiAdSDK.HiAdTools 5810:Cal-pool-thread-6] current connected service pkg: com.huawei.hwid
+[2024-08-12 11:08:01.607 I/HiAd/HiAdSDK.HiAdTools 5810:Cal-pool-thread-7] current connected service pkg: com.huawei.hwid
+[2024-08-12 11:08:01.611 I/HiAd/HiAdSDK.HiAdTools 5810:Cal-pool-thread-7] current connected service pkg: com.huawei.hwid
+[2024-08-12 11:08:01.612 I/HiAd/HiAdSDK.HiAdTools 5810:Cal-pool-thread-6] current connected service pkg: com.huawei.hwid
+[2024-08-12 11:08:01.613 I/HiAd/HiAdSDK.HiAdTools 5810:Cal-pool-thread-7] current connected service pkg: com.huawei.hwid
+[2024-08-12 11:08:01.616 I/HiAd/HiAdSDK.HiAdTools 5810:Cal-pool-thread-6] current connected service pkg: com.huawei.hwid
+[2024-08-12 11:08:01.618 I/HiAd/HiAdSDK.HiAdTools 5810:Cal-pool-thread-7] current connected service pkg: com.huawei.hwid
+[2024-08-12 11:08:01.620 I/HiAd/HiAdSDK.HiAdTools 5810:Cal-pool-thread-8] current connected service pkg: com.huawei.hwid
